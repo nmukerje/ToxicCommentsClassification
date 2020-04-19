@@ -1,5 +1,6 @@
 # Toxic Comments Classification - An evaluation of various algorithms and approaches.
 
+* Feature Exploration - [notebooks/Feature_Exploration.ipynb](notebooks/Feature_Exploration.ipynb)
 * Logistic Regression Training - [notebooks/Logistic_Regression_Baseline.ipynb](notebooks/Logistic_Regression_Baseline.ipynb)
 * Convolutional Network Training - [notebooks/CNN_Training.ipynb](notebooks/CNN_Training.ipynb)
 * BiLSTM Training - [notebooks/BiLSTM%2BGlove.ipynb](notebooks/BiLSTM%2BGlove.ipynb)
